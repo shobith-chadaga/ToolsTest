@@ -11,8 +11,7 @@
     <rule class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false"
          language="java"
          message="File System Call Load"
-         name="File_Sys_Properties_Load"
-         typeResolution="true">
+         name="File_Sys_Properties_Load">
       <description>
 				PROPERTIES FILE REFERENCE FINDER
       </description>
@@ -40,8 +39,7 @@
     <rule name="File_Output_Strm_Import"
     	  language="java"
           message="File Output Stream Import is present"
-          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false"
-          typeResolution="true">
+          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false">
       <description>
 				PROPERTIES FILE REFERENCE FINDER
       </description>
@@ -60,8 +58,7 @@
     <rule name="File_Input_Strm_Import"
     	  language="java"
           message="File Input Stream Import is present"
-          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false"
-          typeResolution="true">
+          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false">
       <description>
 				PROPERTIES FILE REFERENCE FINDER
       </description>
@@ -80,8 +77,7 @@
      <rule name="IO_Import"
     	  language="java"
           message="File Input Output Import is present"
-          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false"
-          typeResolution="true">
+          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false">
       <description>
 				PROPERTIES FILE REFERENCE FINDER
       </description>
@@ -99,8 +95,7 @@
     <rule name="File_Import"
     	  language="java"
           message="File Import "
-          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false"
-          typeResolution="true">
+          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false">
       <description>
 				PROPERTIES FILE REFERENCE FINDER
       </description>
@@ -120,8 +115,7 @@
      <rule name="FileInputStream_Usage"
     	  language="java"
           message="Use of File Input Stream"
-          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false"
-          typeResolution="true">
+          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false">
       <description>
 				PROPERTIES FILE REFERENCE FINDER
       </description>
@@ -141,8 +135,7 @@
     <rule name="FileOutputStream_Usage"
     	  language="java"
           message="Use of File Output Stream"
-          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false"
-          typeResolution="true">
+          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false">
       <description>
 				PROPERTIES FILE REFERENCE FINDER
       </description>
@@ -162,8 +155,7 @@
      <rule name="FileReader_Usage"
     	  language="java"
           message="Use of File Reader"
-          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false"
-          typeResolution="true">
+          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false">
       <description>
 				PROPERTIES FILE REFERENCE FINDER
       </description>
@@ -183,8 +175,7 @@
     <rule name="FileWriter_Usage"
     	  language="java"
           message="Use of File Writer"
-          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false"
-          typeResolution="true">
+          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false">
       <description>
 				PROPERTIES FILE REFERENCE FINDER
       </description>
@@ -204,8 +195,7 @@
      <rule name="File_Reader_Import"
     	  language="java"
           message="File Reader Import presence"
-          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false"
-          typeResolution="true">
+          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false">
       <description>
 				PROPERTIES FILE REFERENCE FINDER
       </description>
@@ -223,8 +213,7 @@
      <rule name="File_Writer_Import"
     	  language="java"
           message="File Writer Import presence"
-          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false"
-          typeResolution="true">
+          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false">
       <description>
 				PROPERTIES FILE REFERENCE FINDER
       </description>
@@ -243,8 +232,7 @@
     <rule name="Random_Access_File"
     	  language="java"
           message="Random Access File Presence"
-          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false"
-          typeResolution="true">
+          class="net.sourceforge.pmd.lang.rule.XPathRule" deprecated="false" dfa="false">
       <description>
 				Random Access File Presence
       </description>
