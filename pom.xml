@@ -69,6 +69,10 @@
                          <outputDirectory>code-analysis/reports/html</outputDirectory>
                          <targetDirectory>code-analysis/reports/</targetDirectory>
                          <targetJdk>1.6</targetJdk>
+                         <rulesets>
+                                <ruleset>/category/java/bestpractices.xml</ruleset>
+                             <ruleset>https://github.com/shobith-chadaga/ToolsTest/blob/master/IdentifyFileIO2.xml</ruleset>
+                            </rulesets>
                 </configuration>
             </plugin>
         </plugins>
