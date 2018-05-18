@@ -45,7 +45,6 @@
                             <targetDirectory>code-analysis/reports/</targetDirectory>
                             <aggregate>true</aggregate>
                             <rulesets>
-                                <ruleset>/category/java/bestpractices.xml</ruleset>
                              <ruleset>ruleset1.xml</ruleset>
                             </rulesets>
                </configuration>
@@ -70,7 +69,6 @@
                          <targetDirectory>code-analysis/reports/</targetDirectory>
                          <targetJdk>1.6</targetJdk>
                          <rulesets>
-                                <ruleset>/category/java/bestpractices.xml</ruleset>
                              <ruleset>ruleset1.xml</ruleset>
                             </rulesets>
                 </configuration>
